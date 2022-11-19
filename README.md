@@ -1,4 +1,1 @@
-# stepik_auto_tests_course
-# Превед, креведко
-# Превед, медвед
-# Превед, людоед
+# Пишем код с использованием метода "text_to_be_present_in_element"
